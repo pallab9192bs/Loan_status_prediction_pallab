@@ -15,3 +15,17 @@ _________________
 5.This Versions Model performs as per industry standard.
 
 6. For Nominal Reason Only Accuracy Score has been taken. But later versions, come with Recall,Precision, F1 alongside Accuracy Score
+
+
+VERSION 2.0
+__________________
+
+1. Feature Engineering through Select K Best
+2. HyperParameter Tuning.
+
+VERSION 3.0 (SOON....)
+____________
+
+1. Added Confusion Matrix
+2. Feature Engg through Extra Tree Classifier
+3. Added XGBoost.
